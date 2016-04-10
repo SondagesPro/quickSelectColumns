@@ -3,8 +3,8 @@
  * quickSelectColumns Plugin for LimeSurvey
  *
  * @author Denis Chenu <denis@sondages.pro>
- * @copyright 2015 Ysthad
- * @copyright 2015 Denis Chenu <http://sondages.pro>
+ * @copyright 2014-2015 Ysthad
+ * @copyright 2014-2016 Denis Chenu <http://sondages.pro>
  * @license AGPL v3
  * @version 0.1
  *
